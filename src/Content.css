@@ -1,13 +1,10 @@
-/* Content.css */
 
 .content-container {
     display: flex;
-    /* justify-content: space-around; */
-    /* align-items: center; */
     margin-top: 100px;
     padding: 100px;
-    max-width: 800px; /* Set a maximum width for the content container */
-    margin: auto; /* Center the content horizontally */
+    max-width: 800px; 
+    margin: auto;
   }
   
   .left-part {
@@ -26,7 +23,7 @@
   .right-part img {
     max-width: 50%;
     height: auto;
-    border-radius: 40px; /* Add some border-radius for a rounded corner effect */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a lifted look */
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
   }
   
